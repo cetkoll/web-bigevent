@@ -54,3 +54,7 @@ const renderAvatar = (user) => {
         $('.text-avatar').html(firstName).show()
     }
 }
+
+function newttt (){
+  $('#ttt').click()
+}
